@@ -276,7 +276,7 @@
                 throw new Error(data.message || 'Submission failed');
             }
         } catch (err) {
-            formError.textContent = 'Failed to send message. Please email me directly at dsash223340@gmail.com';
+            formError.textContent = 'Failed to send message. Please email me directly at shashankdeshpande94@gmail.com';
             formError.hidden = false;
         }
 

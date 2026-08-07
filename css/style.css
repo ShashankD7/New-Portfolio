@@ -438,6 +438,7 @@ strong { color: var(--text); font-weight: 600; }
 .accent-dot { background: var(--accent); box-shadow: 0 0 0 4px rgba(56,189,248,0.2), 0 0 16px rgba(56,189,248,0.5); }
 .purple-dot { background: var(--purple); box-shadow: 0 0 0 4px rgba(167,139,250,0.2); }
 .green-dot  { background: var(--green);  box-shadow: 0 0 0 4px rgba(52,211,153,0.2); }
+.yellow-dot { background: var(--yellow); box-shadow: 0 0 0 4px rgba(251,191,36,0.2); }
 
 .job-card {
     flex: 1; background: var(--card); border: 1px solid var(--border);
